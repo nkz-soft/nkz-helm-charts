@@ -563,4 +563,25 @@ entries:
     urls:
     - https://github.com/helm/charts-repo-actions-demo/releases/download/example-v2-0.2.2/example-v2-0.2.2.tgz
     version: 0.2.2
-generated: "2022-03-30T08:28:10.310585337Z"
+  raw:
+  - apiVersion: v2
+    created: "2022-10-26T11:19:42.21282366Z"
+    description: A place for all the Kubernetes resources which don't already have
+      a home
+    digest: df383b94dae9b57e64de7820d9a5308076640c918539367bd6a325f8de9490ef
+    home: https://github.com/itscontained/charts/blob/master/itscontained/raw
+    keywords:
+    - raw
+    - incubator
+    - incubator-raw
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - email: nick@cajun.pro
+      name: DirtyCajunRice
+    name: raw
+    sources:
+    - https://github.com/helm/charts/blob/master/incubator/raw
+    urls:
+    - https://github.com/nkz-soft/nkz-helm-charts/releases/download/raw-v0.2.5/raw-v0.2.5.tgz
+    version: v0.2.5
+generated: "2022-10-26T11:19:42.21287496Z"
